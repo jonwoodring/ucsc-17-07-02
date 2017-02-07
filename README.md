@@ -2,7 +2,7 @@
 # https://courses.soe.ucsc.edu/courses/cmps107
 ## Jon Woodring, February 7, 2017 ##
 
-# Open Source Visualization and Analysis
+# Open Source Scientific Visualization and Analysis
 
 The link to the static Jupyter notebook (main notes):
 ## https://github.com/jonwoodring/ucsc-17-07-02/blob/master/Notes.ipynb ##
