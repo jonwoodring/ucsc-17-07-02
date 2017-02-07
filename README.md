@@ -8,7 +8,7 @@ The link to the static Jupyter notebook (main notes):
 ## https://github.com/jonwoodring/ucsc-17-07-02/blob/master/Notes.ipynb ##
 
 The link to the VM:
-*Link to be added*
+## https://drive.google.com/file/d/0BzyiUoirucJpMnpXTC1YcDRuZ0E ##
 
 The link to the static RMarkdown notebook (notes on RStudio):
 **(you'll have to download it and open the file with your browser, github won't show it)**
