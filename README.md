@@ -14,3 +14,9 @@ The link to the static RMarkdown notebook (notes on RStudio):
 **(you'll have to download it and open the file with your browser, github won't show it)**
 ## https://github.com/jonwoodring/ucsc-17-07-02/blob/master/Notes.html ##
 
+Bookmarks to various tools used:
+## https://github.com/jonwoodring/ucsc-17-07-02/blob/master/bookmarks.html ##
+
+Project ideas:
+## https://github.com/jonwoodring/ucsc-17-07-02/blob/master/ideas.md ##
+
