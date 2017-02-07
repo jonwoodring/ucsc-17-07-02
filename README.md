@@ -7,7 +7,7 @@
 The link to the static Jupyter notebook (main notes):
 ## https://github.com/jonwoodring/ucsc-17-07-02/blob/master/Notes.ipynb ##
 
-The link to the VM:
+The link to the VM **(this will only be available until the end of the quarter)**:
 ## https://drive.google.com/file/d/0BzyiUoirucJpMnpXTC1YcDRuZ0E ##
 
 The link to the static RMarkdown notebook (notes on RStudio):
