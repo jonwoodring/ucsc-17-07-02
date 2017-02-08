@@ -18,3 +18,5 @@
   - VisIt
 - Develop and deploy a web-enabled visualization of some data of interest
   - Dynamic data that it pulls from web sources
+- Add ParaView and/or VTK inline plotting in Jupyter
+- Add ParaView and/or VTK inline plotting in RMarkdown/RStudio

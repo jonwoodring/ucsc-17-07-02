@@ -19,3 +19,4 @@ Bookmarks to various tools used:
 Project ideas:
 ## https://github.com/jonwoodring/ucsc-17-07-02/blob/master/ideas.md ##
 
+**I apologize for doing dumb Y-D-M naming of the repository**
